@@ -1,3 +1,5 @@
+/* Database*/
+
 DROP DATABASE IF EXISTS employees_mod;
 CREATE DATABASE IF NOT EXISTS employees_mod;
 

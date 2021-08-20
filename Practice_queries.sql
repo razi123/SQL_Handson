@@ -1,5 +1,6 @@
-/* SELECT QUERIES*/
+/* SQL QUERIES */
 USE employees_mod;
+
 
 SELECT * FROM departments LIMIT 10;
 
